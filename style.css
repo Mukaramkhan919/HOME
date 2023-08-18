@@ -1,0 +1,132 @@
+* {
+  background-color: black;
+
+  margin-top: 20px;
+
+  
+
+  
+
+}
+a:hover{
+  text-decoration: underline;
+  cursor: pointer;
+  color: rgb(0, 255, 200);
+  border: solid black;
+  
+}
+
+
+div.first {
+  font-size: 30px;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.and,
+.end,
+.min,
+.fix {
+  text-decoration: none;
+  color: bisque;
+  margin-right: 30px;
+  
+
+
+}
+
+/* .fa-house{
+  color: brown;
+  background-color: aqua;
+  size: 10px;
+} */
+
+
+img{
+  box-shadow: 5px 5px 5px 10px crimson;
+}
+
+h1 {
+  color: bisque;
+  text-align: center;
+  font-size: 70px;
+  text-shadow: 5px 2px 2px red;
+}
+
+h2 {
+  color: bisque;
+  text-align: left;
+  font-size: 40px;
+}
+
+.well {
+  text-align: left;
+
+
+}
+
+.hi,.hy,.he {
+  text-decoration: none;
+  margin-right: 20px;
+  color: rgb(0, 195, 255);
+  font-size: 30px;
+ 
+}
+.big{
+  color: bisque;
+  font-size: 30px;
+  border: solid white;
+  text-align: center;
+  border-radius: 15px;
+}
+.con{
+  color: bisque;
+  font-size: 25px;
+}
+
+.Ai{
+  color: bisque;
+  font-size: 30px;
+  border: solid white;
+  text-align: center;
+  border-radius: 15px;
+}
+.coj{
+  color: bisque;
+  font-size: 25px;
+}
+i{
+  color: antiquewhite;
+}
+button{
+  color: rgb(0, 255, 179);
+  font-size: 15px;
+  border: solid rgba(255, 217, 0, 0.39);
+  border-radius: 15px;
+  cursor: pointer;
+position: relative;
+left: 1200px;
+box-shadow: 3px 3px 3px green;
+  
+
+}
+button:hover{
+  background-color: rgb(255, 217, 0);
+}
+
+h5{
+  color: gold;
+  word-spacing: 7px;
+ text-align: center;
+ font-size: 50px;
+ 
+}
+h5:hover{
+  color: bisque;
+}
+#top{
+  color: bisque;
+  font-size: larger;
+  background-color: aqua;
+
+}
